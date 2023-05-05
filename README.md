@@ -5,6 +5,7 @@ This repository contains machine learning activites that correspond with the wor
 ## Content
  - Building and tuning Neural networks
  - Convolutional neural networks
+ - Unsupervised neural networks
 
 ## Usage
 
