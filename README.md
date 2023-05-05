@@ -1,4 +1,4 @@
-# ICTP-IAEA Computational Workshop 2022
+# TRIUMF Machine Learning Workshop 2023
 
 This repository contains machine learning activites that correspond with the workshop lectures:
 
