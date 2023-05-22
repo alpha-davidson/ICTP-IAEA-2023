@@ -1,4 +1,4 @@
-# TRIUMF Machine Learning Workshop 2023
+# ICTP-IAEA Deep Learning Workshop 2023
 
 This repository contains machine learning activites that correspond with the workshop lectures:
 
